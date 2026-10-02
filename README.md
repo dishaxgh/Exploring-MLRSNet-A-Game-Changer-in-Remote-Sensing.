@@ -46,8 +46,6 @@ This augmented data generator is integrated with dedicated training scripts that
   
 The dataset used in our experiments is [THIS DATASET](https://github.com/cugbrs/MLRSNet) 
 
-### MLRSNet Dataset
-
 MLRSNet offers a diverse collection of high-resolution satellite images, providing different perspectives of the world. The dataset is suitable for tasks such as **multi-label image classification**, **multi-label image retrieval**, and **image segmentation**.
 
 **Dataset Overview:**
